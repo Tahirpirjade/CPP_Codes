@@ -1,3 +1,3 @@
-# C++-Tutorials
+# C++ Projects
 
-All the source codes for the tutorials I made for my youtube channel
+All the source codes for the projects I made
